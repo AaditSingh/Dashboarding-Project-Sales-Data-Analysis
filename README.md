@@ -1,10 +1,6 @@
-To make the README more attractive and add the image, you can use Markdown formatting and add the image link. Here’s an enhanced version of your README:
+📊 Store Sales Data Analysis and Visualization
 
----
-
-# Store Sales Data Analysis and Visualization
-
-![Uploading Store Sales Data Analysis.png…]()
+![Store Sales Data Analysis](https://github.com/AaditSingh/Dashboarding-Project-Sales-Data-Analysis/blob/main/images/Store_Sales_Data_Analysis.png)
 
 Welcome to the SuperStore Sales Data Analysis and Visualization project! This project leverages Power BI to provide comprehensive insights into sales performance, customer segmentation, and profitability trends through dynamic visualizations and predictive modeling.
 
@@ -47,5 +43,5 @@ Welcome to the SuperStore Sales Data Analysis and Visualization project! This pr
 2. **Open the Power BI file**: Open the `Store Sales.pbix` file in Power BI Desktop.
 3. **Explore the Data**: Interact with the dashboards and visualizations to gain insights.
 
-## 👤 Authors
+## 👤 Author
 - **Aadit Singh**
