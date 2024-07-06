@@ -4,7 +4,7 @@ To make the README more attractive and add the image, you can use Markdown forma
 
 # Store Sales Data Analysis and Visualization
 
-![SuperStore Sales](https://user-images.githubusercontent.com/AaditSingh/Dashboarding-Project-Sales-Data-Analysis/)
+![SuperStore Sales](https://user-images.githubusercontent.com/AaditSingh/Dashboarding-Project-Sales-Data-Analysis/Store-Sales-Data-Analysis.png )
 
 Welcome to the SuperStore Sales Data Analysis and Visualization project! This project leverages Power BI to provide comprehensive insights into sales performance, customer segmentation, and profitability trends through dynamic visualizations and predictive modeling.
 
