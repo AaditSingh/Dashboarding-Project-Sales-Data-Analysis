@@ -6,7 +6,9 @@ This project involves the analysis and visualization of SuperStore sales data us
 
 ### Data Analysis
 - **Dataset**: Processed 100,000+ sales records, identifying and removing 15% redundant data to enhance dataset quality.
-- **Tools Used**: Excel for initial data cleaning and preprocessing.
+- **Tools Used**:
+-     Excel for initial data cleaning and preprocessing.
+-     Power BI
 
 ### Visualizations
 - **Power BI Dashboards**: Created dynamic and interactive dashboards to visualize real-time sales performance, customer segmentation, and profitability analysis.
