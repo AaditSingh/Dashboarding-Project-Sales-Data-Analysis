@@ -1,6 +1,6 @@
 📊 Store Sales Data Analysis and Visualization
 
-![Store Sales Data Analysis](https://github.com/AaditSingh/Dashboarding-Project-Sales-Data-Analysis/blob/main/images/Store_Sales_Data_Analysis.png)
+![Store Sales Data Analysis](https://github.com/AaditSingh/Dashboarding-Project-Sales-Data-Analysis/blob/main/Store_Sales_Data_Analysis.png)
 
 Welcome to the SuperStore Sales Data Analysis and Visualization project! This project leverages Power BI to provide comprehensive insights into sales performance, customer segmentation, and profitability trends through dynamic visualizations and predictive modeling.
 
