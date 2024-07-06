@@ -1,4 +1,4 @@
-📊 Store Sales Data Analysis and Visualization
+#📊 Store Sales Data Analysis and Visualization
 
 ![Store Sales Data Analysis](https://github.com/AaditSingh/Dashboarding-Project-Sales-Data-Analysis/blob/main/Store_Sales_Data_Analysis.png)
 
